@@ -1,2 +1,5 @@
 # venv folder
 venv/
+
+# ipynb checkpoints
+.ipynb_checkpoints
